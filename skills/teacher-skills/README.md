@@ -1,6 +1,6 @@
 # Teacher — Claude Skills
 
-9 ready-to-use Claude Skills for teachers.
+8 ready-to-use Claude Skills for teachers.
 
 ## New to this? Three words worth knowing
 
@@ -9,7 +9,7 @@ discharge summary, draft ad copy. It is a plain Markdown file (`SKILL.md`) sayin
 to use it, what steps to follow, and what the finished output should look like. Claude
 reads it and follows it.
 
-**A plugin** is a bundle of related skills, so you install all the skills in
+**A plugin** is a bundle of related skills, so you install all eight lawyer skills in
 one step instead of eight.
 
 **A marketplace** is a catalog of plugins. Adding one lets you browse what is
@@ -30,7 +30,6 @@ changes how Claude approaches a task, so you can read exactly what you are insta
 | **Writing Parent Communication** | When you need to communicate with a parent about their child and want the tone right on the first draft. | Beginner |
 | **Writing IEP Progress Notes** | When you need to document progress toward IEP goals from classroom observations in the required format. | Advanced |
 | **Planning Classroom Activities** | When you need an interactive activity that reinforces a specific concept, not just fills class time. | Intermediate |
-| **Middle School Teacher** | When you need to read a cross-subject data pattern, rule on a zero or redo, or write a team-grounded parent progress note. | Advanced |
 
 Each is a separate folder under `skills/` in this zip — open it now and you'll see
 all 8. Delete any you do not want before installing.
